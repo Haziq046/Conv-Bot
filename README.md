@@ -35,7 +35,7 @@ Conv-Bot is an AI-powered conversational bot designed to facilitate seamless and
    ```bash
    OPENAI_API_KEY=your_openai_api_key
 
-5. 4. **Run the backend server**:
+5. **Run the backend server**:
    ```bash
    uvicorn main:app --host 0.0.0.0 --port 8006
 
