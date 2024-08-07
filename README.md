@@ -39,7 +39,6 @@ Conv-Bot is an AI-powered conversational bot designed to facilitate seamless and
    ```bash
    uvicorn main:app --host 0.0.0.0 --port 8006
 
-
 ## Frontend Setup
   
 1. **Navigate to the frontend directory**:
